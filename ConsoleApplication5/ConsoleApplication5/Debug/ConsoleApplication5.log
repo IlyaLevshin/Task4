@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  ConsoleApplication5.cpp
+c:\users\илюха\desktop\tasks\itog\consoleapplication5\consoleapplication5\consoleapplication5.cpp(16): warning C4101: 'term': unreferenced local variable
+  ConsoleApplication5.vcxproj -> C:\Users\ИЛЮХА\Desktop\tasks\Itog\ConsoleApplication5\Debug\ConsoleApplication5.exe
